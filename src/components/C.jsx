@@ -17,9 +17,12 @@ function C() {
 
             return <>
 
-            <h1>{r.id} {r.name}</h1>
+            <h1>{r.id} {r.name} hello</h1>
             <img src={r.image} alt="" />
             <hr />
+
+
+            
             
             
             </>
